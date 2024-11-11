@@ -1,0 +1,18 @@
+# Ignore VS Code settings
+SNAKE-GAME-IN-JAVA-CODE/.vscode/
+
+# Ignore compiled and binary files
+SNAKE-GAME-IN-JAVA-CODE/bin/
+SNAKE-GAME-IN-JAVA-CODE/src/GamePanel$MyKeyAdapter.class
+SNAKE-GAME-IN-JAVA-CODE/src/GamePanel.class
+SNAKE-GAME-IN-JAVA-CODE/src/SnakeGame.class
+
+# Ignore library files
+SNAKE-GAME-IN-JAVA-CODE/lib/
+
+# Ignore standalone executable and related files
+STANDALONE EXE DOWNLOAD/launch4j.log
+STANDALONE EXE DOWNLOAD/project-8.ico
+STANDALONE EXE DOWNLOAD/SnakeGame.jar
+STANDALONE EXE DOWNLOAD/SNAKE-GAME-JAVA-FINAL.exe
+STANDALONE EXE DOWNLOAD/SNAKE-GAME-JAVA-FINAL.xml
